@@ -1,302 +1,418 @@
-[
 {
-"make": "Volkswagen",
-"model": "ID.4",
-"price": 39995,
-"electric": true
-},
-{
-"make": "Toyota",
-"model": "Corolla",
-"price": 20225,
-"electric": false
-},
-{
-"make": "Chevrolet",
-"model": "Bolt EV",
-"price": 36320,
-"electric": true
-},
-{
-"make": "Hyundai",
-"model": "Elantra",
-"price": 19950,
-"electric": false
-},
-{
-"make": "Chevrolet",
-"model": "Equinox",
-"price": 26300,
-"electric": false
-},
-{
-"make": "Ford",
-"model": "Explorer",
-"price": 33670,
-"electric": false
-},
-{
-"make": "Tesla",
-"model": "Model 3",
-"price": 39999,
-"electric": true
-},
-{
-"make": "Kia",
-"model": "Niro EV",
-"price": 39990,
-"electric": true
-},
-{
-"make": "Volkswagen",
-"model": "Passat",
-"price": 23995,
-"electric": false
-},
-{
-"make": "Honda",
-"model": "Accord",
-"price": 24800,
-"electric": false
-},
-{
-"make": "Porsche",
-"model": "Taycan",
-"price": 82900,
-"electric": true
-},
-{
-"make": "Mazda",
-"model": "Mazda3",
-"price": 20950,
-"electric": false
-},
-{
-"make": "Hyundai",
-"model": "Santa Fe",
-"price": 27500,
-"electric": false
-},
-{
-"make": "BMW",
-"model": "3 Series",
-"price": 41450,
-"electric": false
-},
-{
-"make": "Tesla",
-"model": "Model S",
-"price": 79999,
-"electric": true
-},
-{
-"make": "Chevrolet",
-"model": "Malibu",
-"price": 23370,
-"electric": false
-},
-{
-"make": "Ford",
-"model": "F-150",
-"price": 28940,
-"electric": false
-},
-{
-"make": "Audi",
-"model": "e-tron",
-"price": 65900,
-"electric": true
-},
-{
-"make": "Volkswagen",
-"model": "Tiguan",
-"price": 26195,
-"electric": false
-},
-{
-"make": "Mazda",
-"model": "CX-5",
-"price": 26250,
-"electric": false
-},
-{
-"make": "Kia",
-"model": "Seltos",
-"price": 21990,
-"electric": false
-},
-{
-"make": "Nissan",
-"model": "Altima",
-"price": 24550,
-"electric": false
-},
-{
-"make": "Audi",
-"model": "A6",
-"price": 54900,
-"electric": false
-},
-{
-"make": "Ford",
-"model": "Mustang Mach-E",
-"price": 42995,
-"electric": true
-},
-{
-"make": "Tesla",
-"model": "Model X",
-"price": 89999,
-"electric": true
-},
-{
-"make": "Toyota",
-"model": "RAV4",
-"price": 26850,
-"electric": false
-},
-{
-"make": "Chevrolet",
-"model": "Spark",
-"price": 13995,
-"electric": false
-},
-{
-"make": "Mercedes-Benz",
-"model": "EQC",
-"price": 67900,
-"electric": true
-},
-{
-"make": "Hyundai",
-"model": "Kona Electric",
-"price": 37990,
-"electric": true
-},
-{
-"make": "Tesla",
-"model": "Model Y",
-"price": 49999,
-"electric": true
-},
-{
-"make": "BMW",
-"model": "i3",
-"price": 44450,
-"electric": true
-},
-{
-"make": "Ford",
-"model": "Escape",
-"price": 26750,
-"electric": false
-},
-{
-"make": "Mazda",
-"model": "CX-9",
-"price": 34560,
-"electric": false
-},
-{
-"make": "Volkswagen",
-"model": "Golf",
-"price": 23795,
-"electric": false
-},
-{
-"make": "Jaguar",
-"model": "I-PACE",
-"price": 69900,
-"electric": true
-},
-{
-"make": "Subaru",
-"model": "Forester",
-"price": 25795,
-"electric": false
-},
-{
-"make": "Honda",
-"model": "Civic",
-"price": 21600,
-"electric": false
-},
-{
-"make": "Nissan",
-"model": "Murano",
-"price": 33210,
-"electric": false
-},
-{
-"make": "BMW",
-"model": "5 Series",
-"price": 54100,
-"electric": false
-},
-{
-"make": "Audi",
-"model": "A4",
-"price": 39900,
-"electric": false
-},
-{
-"make": "Mercedes-Benz",
-"model": "C-Class",
-"price": 41500,
-"electric": false
-},
-{
-"make": "Hyundai",
-"model": "Santa Fe",
-"price": 27500,
-"electric": false
-},
-{
-"make": "Subaru",
-"model": "Outback",
-"price": 27145,
-"electric": false
-},
-{
-"make": "Tesla",
-"model": "Model X",
-"price": 89999,
-"electric": true
-},
-{
-"make": "Chevrolet",
-"model": "Malibu",
-"price": 23370,
-"electric": false
-},
-{
-"make": "Ford",
-"model": "Mustang Mach-E",
-"price": 42995,
-"electric": true
-},
-{
-"make": "Nissan",
-"model": "Leaf",
-"price": 31220,
-"electric": true
-},
-{
-"make": "Toyota",
-"model": "Camry",
-"price": 25170,
-"electric": false
-},
-{
-"make": "Subaru",
-"model": "Impreza",
-"price": 18795,
-"electric": false
-},
-{
-"make": "Mercedes-Benz",
-"model": "E-Class",
-"price": 54600,
-"electric": false
+    "status": "success",
+    "status_code": 200,
+    "message": "Form details retrieved successfully",
+    "data": [
+        {
+            "FormatId": "c4ca4238a0b923820dcc509a6f75849b",
+            "FormatName": "Client Master",
+            "FormatKeyName": "client_mst",
+            "FormatDetails": [
+                {
+                    "PcolName": "Location",
+                    "PcolSize": "20",
+                    "PcolType": "select",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "1",
+                    "PcolDisplayAddFormat": null,
+                    "PcolDisplayEditFormat": null
+                },
+                {
+                    "PcolName": "Email ID",
+                    "PcolSize": "20",
+                    "PcolType": "internal",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "1",
+                    "PcolDisplayAddFormat": null,
+                    "PcolDisplayEditFormat": null
+                },
+                {
+                    "PcolName": "Client ID",
+                    "PcolSize": "20",
+                    "PcolType": "generate_id",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "2",
+                    "PcolDisplayAddFormat": "no",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Client Name",
+                    "PcolSize": "100",
+                    "PcolType": "input",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Client Type",
+                    "PcolSize": "100",
+                    "PcolType": "input",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "1",
+                    "PcolDisplayAddFormat": "no",
+                    "PcolDisplayEditFormat": "no"
+                },
+                {
+                    "PcolName": "Rating",
+                    "PcolSize": "50",
+                    "PcolType": "input",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Contact Name",
+                    "PcolSize": "100",
+                    "PcolType": "input",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Mobile No",
+                    "PcolSize": "50",
+                    "PcolType": "number",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Phone No",
+                    "PcolSize": "50",
+                    "PcolType": "input",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Client Email ID",
+                    "PcolSize": "100",
+                    "PcolType": "input",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Pan No",
+                    "PcolSize": "30",
+                    "PcolType": "input",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Primary Contact",
+                    "PcolSize": "100",
+                    "PcolType": "input",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Assign To",
+                    "PcolSize": "100",
+                    "PcolType": "input",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Client Address",
+                    "PcolSize": "200",
+                    "PcolType": "input",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "City",
+                    "PcolSize": "50",
+                    "PcolType": "select",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "4",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Pincode",
+                    "PcolSize": "20",
+                    "PcolType": "input",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "State",
+                    "PcolSize": "30",
+                    "PcolType": "select",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "5",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Gst No",
+                    "PcolSize": "20",
+                    "PcolType": "input",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Gst State",
+                    "PcolSize": "30",
+                    "PcolType": "input",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "6",
+                    "PcolDisplayAddFormat": "no",
+                    "PcolDisplayEditFormat": "no"
+                },
+                {
+                    "PcolName": "Assign TeleCaller",
+                    "PcolSize": "100",
+                    "PcolType": "select",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "6",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Industry Type",
+                    "PcolSize": "30",
+                    "PcolType": "select",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Client Type",
+                    "PcolSize": "50",
+                    "PcolType": "input",
+                    "PcolRequired": "no",
+                    "PcolStatus": "inactive",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "no",
+                    "PcolDisplayEditFormat": "no"
+                },
+                {
+                    "PcolName": "Remarks",
+                    "PcolSize": "200",
+                    "PcolType": "input",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Nature Type",
+                    "PcolSize": "50",
+                    "PcolType": "select",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "7",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Status",
+                    "PcolSize": "20",
+                    "PcolType": "select",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "8",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "md5_cust_id",
+                    "PcolSize": "50",
+                    "PcolType": "internal",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "6",
+                    "PcolDisplayAddFormat": "no",
+                    "PcolDisplayEditFormat": "no"
+                },
+                {
+                    "PcolName": "Created By",
+                    "PcolSize": "50",
+                    "PcolType": "internal",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "6",
+                    "PcolDisplayAddFormat": "no",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Created On",
+                    "PcolSize": "50",
+                    "PcolType": "internal",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "6",
+                    "PcolDisplayAddFormat": "no",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Updated By",
+                    "PcolSize": "50",
+                    "PcolType": "internal",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "6",
+                    "PcolDisplayAddFormat": "no",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Updated On",
+                    "PcolSize": "50",
+                    "PcolType": "internal",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "6",
+                    "PcolDisplayAddFormat": "no",
+                    "PcolDisplayEditFormat": "yes"
+                }
+            ]
+        },
+        {
+            "FormatId": null,
+            "FormatName": "Client Nature Master",
+            "FormatKeyName": "client_nature_mst",
+            "FormatDetails": [
+                {
+                    "PcolName": "Description",
+                    "PcolSize": "100",
+                    "PcolType": "input",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Text Color",
+                    "PcolSize": "50",
+                    "PcolType": "input",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Background Color",
+                    "PcolSize": "50",
+                    "PcolType": "color",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Status",
+                    "PcolSize": "50",
+                    "PcolType": "select",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "8",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                }
+            ]
+        },
+        {
+            "FormatId": null,
+            "FormatName": "Stage Colors",
+            "FormatKeyName": "stage_colors",
+            "FormatDetails": [
+                {
+                    "PcolName": "Module Type",
+                    "PcolSize": "50",
+                    "PcolType": "select",
+                    "PcolRequired": "yes",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "9",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Enquiry Text Color Code",
+                    "PcolSize": "50",
+                    "PcolType": "color",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Quotation Color",
+                    "PcolSize": "50",
+                    "PcolType": "color",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Quotation Approve Color",
+                    "PcolSize": "50",
+                    "PcolType": "color",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                },
+                {
+                    "PcolName": "Purchase Order Color",
+                    "PcolSize": "50",
+                    "PcolType": "color",
+                    "PcolRequired": "no",
+                    "PcolStatus": "active",
+                    "PcolHelpList": "0",
+                    "PcolDisplayAddFormat": "yes",
+                    "PcolDisplayEditFormat": "yes"
+                }
+            ]
+        }
+    ]
 }
-]
